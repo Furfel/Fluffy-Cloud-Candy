@@ -1,0 +1,11 @@
+30-06-2013
+Acto-Anims class implemented.
+
+01-07
+Changelog started.
+Actions in actions packs can now have conditions just like acto-anims.
+
+02-07
+Working on extended conditions.
+Preparing to implement map version 1.
+Resizable map height.
